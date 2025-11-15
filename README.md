@@ -1,4 +1,6 @@
 # insofshop
+Mini app mobil progect android
+<img width="119" height="254" alt="image" src="https://github.com/user-attachments/assets/171df134-97ff-4b38-aafd-ec60f62e7301" />
 
 A new Flutter project.
 
